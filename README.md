@@ -1,4 +1,4 @@
-# Fuzzy carnical
+# Fuzzy carnival
 
 POC/ Prototype of a simple Todo application written in React with support of Storybook.
 
